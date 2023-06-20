@@ -1,2 +1,2 @@
 # werknerb2
-#gyakoroljuk a Github-ot
+#konfliktus lesz
