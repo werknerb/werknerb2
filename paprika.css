@@ -4,16 +4,30 @@ html{
 
 #lista li{
     list-style-image:url(chili-pepper-icon.gif);
-    border: solid 3px rgb(95, 95, 215);
-    border-width: 10px;
-    width: 10%;
     background-color: rgb(95, 95, 215);
+    
 
 }
 header{
     background-image:url(./szines.jpg) ;
     background-size: cover;
     height: 150px;
+    width: 100%;
+    padding: 20px
+    
     
   
+}
+section{
+    height: 250px;
+    
+}
+#szekció{
+    float: left;
+    width:30%;
+}
+aside{
+    float: right;
+    height: 500px; 
+    width: 60%;   
 }
